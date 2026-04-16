@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Score</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+    <h2>Розрахуй свій SCORE2</h2>
+    <label>Вік</label>
+    <input type="number" id="age" min="40" max="69">
+
+    <label>Стать</label>
+    <select id="sex">
+        <option value="male">Чоловік</option>
+        <option value="female">Жінка</option>
+    </select>
+
+
+    <label>Куріння</label>
+    <select id="smoking">
+        <option value="male">Курю</option>
+        <option value="female">Не курю</option>
+    </select>
+
+    <label>Систолічний тиск</label>
+    <input type="number" id="bp">
+
+
+    <label >Холестерин</label>
+    <input type="number" step="0.1" id="chol">
+
+
+
+
+
+    <button onclick="calculateScore()">Розрахувати</button>
+
+    <div id="result" class="result"></div>
+    <div id="onList" class="onList"></div>
+    <script src="main.js"></script>
+</div>
+</body>
+</html>
