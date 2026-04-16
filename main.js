@@ -1,3 +1,4 @@
+const img = document.createElement('img');
 function calculateScore() {
     let age = parseInt(document.getElementById("age").value);
     let sex = document.getElementById("sex").value;
@@ -71,10 +72,20 @@ function calculateScore() {
     let advice = "";
 
     function onList(){
+
+        img.src = 'img/symbol.png'
+        img.alt = 'Емблема'
+        img.style.position = 'absolute';
+        img.width = 75;
+        img.style.top = '68%';
+        img.style.left = '56%';
+        document.body.appendChild(img);
         document.getElementById("onList").innerHTML = `
-        <div style="font-size:24px;font-weight:bold;margin-bottom:6px;background:red;color:white;border-radius:8px">
+        <div style="font-size:24px;font-weight:bold;margin-bottom:6px;color:red;">
             Записатися до лікаря та отримати рекомендації: +0960833349
         </div>
+
+        
     `;
 
     }
