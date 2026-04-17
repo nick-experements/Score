@@ -1,4 +1,4 @@
-
+const img = document.createElement('img');
 function calculateScore() {
     let age = parseInt(document.getElementById("age").value);
     let sex = document.getElementById("sex").value;
@@ -71,15 +71,25 @@ function calculateScore() {
     let color = "";
     let advice = "";
 
-    function onList(){
-        document.getElementById("onList").innerHTML = `
-        <div style="font-size:24px;font-weight:bold;margin-bottom:6px;color:red;">
-            Записатися до лікаря та отримати рекомендації: 📞 0960833349
-        </div>
-
-        
-    `;
-
+    function onList() {
+        const listElement = document.getElementById("onList");
+        if (!listElement) return;
+    
+        // Очищаємо контейнер і створюємо структуру через Flexbox
+        listElement.style.display = "flex";
+        listElement.style.alignItems = "center";
+        listElement.style.justifyContent = "space-between";
+        listElement.style.marginTop = "20px";
+    
+        listElement.innerHTML = `
+            <div style="flex: 1; font-size: 22px; font-weight: bold; color: #ff0000; text-align: left; line-height: 1.2;">
+                Записатися до лікаря та<br>отримати рекомендації:<br>
+                <span style="font-size: 26px;">+0960833349</span>
+            </div>
+            <div style="flex: 0 0 80px; margin-left: 15px;">
+                <img src="img/symbol.png" alt="Емблема" style="width: 100%; height: auto; display: block;">
+            </div>
+        `;
     }
 
     if (age >= 70) {
