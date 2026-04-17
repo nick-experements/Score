@@ -82,16 +82,17 @@ function calculateScore() {
         listElement.style.marginTop = "20px";
     
         listElement.innerHTML = `
-            <div style="flex: 1; font-size: 22px; font-weight: bold; color: #ff0000; text-align: left; line-height: 1.2;">
-                Записатися до лікаря та<br>отримати рекомендації:<br>
-                <span style="font-size: 26px;">+0960833349</span>
-            </div>
-            <div style="flex: 0 0 80px; margin-left: 15px;">
-                <img src="img/symbol.png" alt="Емблема" style="width: 100%; height: auto; display: block;">
-            </div>
-        `;
-    }
-
+        <div style="flex: 1; font-size: 22px; font-weight: bold; color: #ff0000; text-align: left; line-height: 1.2;">
+            Записатися до лікаря та<br>отримати рекомендації:<br>
+            <span style="font-size: 26px;">+0960833349</span>
+        </div>
+        <div style="flex-shrink: 0;">
+        <a href="https://www.facebook.com/people/%D0%9A%D0%B0%D1%80%D0%B4%D1%96%D0%BE%D0%BB%D0%BE%D0%B3-%D0%A3%D0%97%D0%94-%D0%A2%D1%80%D1%83%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%86%D1%8C/61551013525542/?rdid=14sVbn0AKCHdTjKN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1894bPjE7N%2F" target="_blank">
+            <img src="img/symbol.png" alt="Емблема" style="width: 70px; height: auto; display: block; border-radius: 50%;">
+        </a>
+    </div>
+    `;
+}
     if (age >= 70) {
         // SCORE2-OP
         if (risk < 7.5) {
