@@ -82,7 +82,7 @@ function calculateScore() {
         listElement.style.marginTop = "20px";
     
         listElement.innerHTML = `
-        <div style="flex: 1; font-size: 22px; font-weight: bold; color: #ff0000; text-align: left; line-height: 1.2;">
+        <div style="flex: 1; font-size: 22px; font-weight: bold; color: ${color}; text-align: left; line-height: 1.2;">
             Записатися до лікаря та<br>отримати рекомендації:<br>
             <span style="font-size: 26px;">+0960833349</span>
         </div>
@@ -99,6 +99,7 @@ function calculateScore() {
             category = "Низький ризик (SCORE2-OP)";
             color = "#2ecc71";
             advice = "Контроль факторів ризику";
+            onList()
         } else if (risk < 15) {
             category = "Помірний ризик (SCORE2-OP)";
             color = "#f1c40f";
@@ -121,6 +122,7 @@ function calculateScore() {
             category = "Низький ризик (SCORE2)";
             color = "#2ecc71";
             advice = "Здоровий спосіб життя";
+            onList()
         } else if (risk < 7.5) {
             category = "Помірний ризик (SCORE2)";
             color = "#f1c40f";
