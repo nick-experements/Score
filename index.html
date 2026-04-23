@@ -39,7 +39,26 @@
 
     <button onclick="calculateScore()">Розрахувати</button>
 
-    <div id="result" class="result"></div>
+    <div id="result" class="result">
+        <div class="risk-category">
+        
+        </div>
+
+        <div class="risk-vallue" style="font-size:16px;">
+            10-річний ризик: <b id="risk-vallue-number">%</b>
+        </div>
+
+        <div class="model-description">
+            Модель: SCORE2 / ESC (клінічна апроксимація)
+        </div>
+
+        <div class="recomendation">
+
+            Рекомендація: <span id="recomendation-text"></span>
+        </div>
+    </div>
+
+
     <div id="onList" class="onList"></div>
     <script src="main.js"></script>
 </div>

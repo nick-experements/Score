@@ -145,34 +145,17 @@ function calculateScore() {
     // 4. OUTPUT (EUROPEAN MEDICAL UI STYLE)
     // =========================
 
-    document.getElementById("result").innerHTML = `
-        <div style="font-size:18px;font-weight:bold;margin-bottom:6px;">
-            ${category}
-        </div>
+    const result = document.getElementById("result")
 
-        <div style="font-size:16px;">
-            10-річний ризик: <b>${risk.toFixed(1)}%</b>
-        </div>
+    result.classList.add('report');
+    result.style.setProperty('--risk-category', `"${category}"`)
+    result.style.setProperty('--risk-vallue', `"${risk.toFixed(1)}"`)
+    result.style.setProperty('--recomendation', `"${advice}"`)
+    result.style.setProperty('--color', color);
 
-        <div style="margin-top:8px;font-size:13px;opacity:0.8;">
-            Модель: SCORE2 / ESC (клінічна апроксимація)
-        </div>
-
-        <style>
-        #result:hover {
-            filter: drop-shadow(0 0 12px ${color});
-        }
-        </style>
-
-        <div style="margin-top:10px;padding:8px;border-radius:8px;background:${color};color:white;">
-
-            Рекомендація: ${advice}
-        </div>
-    `;
-
-    let box = document.getElementById("result");
-    box.style.background = "#ffffff";
-    box.style.border = "1px solid #eaeaea";
-    box.style.borderRadius = "12px";
-    box.style.padding = "12px";
+    // let box = document.getElementById("result");
+    // box.style.background = "#ffffff";
+    // box.style.border = "1px solid #eaeaea";
+    // box.style.borderRadius = "12px";
+    // box.style.padding = "12px";
 }
