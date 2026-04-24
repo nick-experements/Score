@@ -1,4 +1,10 @@
+const RISK_LOW = "risk-low";
+const RISK_MEDIUM = "risk-medium";
+const RISK_HIGH = "risk-high";
+const RISK_VERY_HIGH = "risk-very-high";
 const img = document.createElement('img');
+
+
 function calculateScore() {
     let age = parseInt(document.getElementById("age").value);
     let sex = document.getElementById("sex").value;
@@ -70,6 +76,8 @@ function calculateScore() {
     let category = "";
     let color = "";
     let advice = "";
+    let riskClass = "";
+
 
     function onList() {
         const listElement = document.getElementById("onList");
@@ -99,21 +107,25 @@ function calculateScore() {
             category = "Низький ризик (SCORE2-OP)";
             color = "#2ecc71";
             advice = "Контроль факторів ризику";
+            riskClass = RISK_LOW;
             onList()
         } else if (risk < 15) {
             category = "Помірний ризик (SCORE2-OP)";
             color = "#f1c40f";
             advice = "Спостереження + профілактика";
+            riskClass = RISK_MEDIUM;
             onList()
         } else if (risk < 25) {
             category = "Високий ризик (SCORE2-OP)";
             color = "#e67e22";
             advice = "Кардіологічна оцінка";
+            riskClass = RISK_HIGH;
             onList()
         } else {
             category = "Дуже високий ризик (SCORE2-OP)";
             color = "#e74c3c";
             advice = "Активне лікування факторів ризику";
+            riskClass = RISK_VERY_HIGH;
             onList()
         }
     } else {
@@ -122,21 +134,25 @@ function calculateScore() {
             category = "Низький ризик (SCORE2)";
             color = "#2ecc71";
             advice = "Здоровий спосіб життя";
+            riskClass = RISK_LOW;
             onList()
         } else if (risk < 7.5) {
             category = "Помірний ризик (SCORE2)";
             color = "#f1c40f";
             advice = "Контроль тиску і ліпідів";
+            riskClass = RISK_MEDIUM;
             onList()
         } else if (risk < 15) {
             category = "Високий ризик (SCORE2)";
             color = "#e67e22";
             advice = "Консультація кардіолога";
+            riskClass = RISK_HIGH;
             onList()
         } else {
             category = "Дуже високий ризик (SCORE2)";
             color = "#e74c3c";
             advice = "Медикаментозна профілактика + кардіолог";
+            riskClass = RISK_VERY_HIGH;
             onList()
         }
     }
@@ -146,12 +162,11 @@ function calculateScore() {
     // =========================
 
     const result = document.getElementById("result")
-
-    result.classList.add('report');
+    result.classList.remove(RISK_LOW, RISK_MEDIUM, RISK_HIGH, RISK_VERY_HIGH)
+    result.classList.add('report', riskClass);
     result.style.setProperty('--risk-category', `"${category}"`)
     result.style.setProperty('--risk-vallue', `"${risk.toFixed(1)}"`)
     result.style.setProperty('--recomendation', `"${advice}"`)
-    result.style.setProperty('--color', color);
 
     // let box = document.getElementById("result");
     // box.style.background = "#ffffff";
