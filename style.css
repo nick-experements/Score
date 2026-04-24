@@ -114,7 +114,7 @@ button {
 
 
 .result.risk-low {
-    --level-color: #2ecc71;
+    --level-color: #7fc025;
 }
 .result.risk-medium {
     --level-color: #f1c40f;
