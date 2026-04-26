@@ -116,27 +116,24 @@ button {
 
 
 .contact-wrapper {
-    position: relative; /* Тепер це стіни вашої білої картки */
+    display: flex;
     width: 100%;
     margin-top: 20px;   /* Відступ від кнопки зверху */
     min-height: 80px;   /* Щоб висоти вистачило для іконки */
+    align-items: center;
 }
 
 .on-list-text {
     font-size: 22px; 
     font-weight: bold; 
     color: var(--level-color); 
-    text-align: left; 
+    text-align: center; 
     line-height: 1.2;
     padding-right: 80px; /* Місце, щоб текст не наповзав на серце */
 }
 
-.on-list-img {
-    position: absolute;
-    right: 0;           /* Чітко до правого краю .contact-wrapper */
-    top: 50%;           /* Центруємо по висоті */
-    transform: translateY(-50%);
-}
+/* .on-list-img {
+} */
 
 .img {
     width: 70px; 
@@ -159,4 +156,9 @@ button {
 }
 .anwser-report:hover {
     filter: drop-shadow(0 0 12px  var(--level-color));
+}
+
+
+#telephone-number{
+    font-size: 26px;
 }
