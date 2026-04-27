@@ -1,0 +1,3202 @@
+[
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 7
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 8
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 9
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 10
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 12
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 6
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 7
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 8
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 6
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 13
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 15
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 17
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 19
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 22
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 9
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 10
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 12
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 13
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 16
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 6
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 7
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 8
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 9
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 11
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 6
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 7
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 6
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 7
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 8
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 9
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 10
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 11
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 13
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 6
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 7
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 8
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 9
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 6
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 6
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 7
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 5
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 4
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 3
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 2
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 1
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 0
+  },
+  {
+    "gender": "female",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 0
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 14
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 16
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 19
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 22
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 26
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 9
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 11
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 13
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 15
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 16
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 8
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 9
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 11
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 13
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 7
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 9
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 26
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 30
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 35
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 41
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 47
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 18
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 21
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 25
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 29
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 34
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 13
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 15
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 17
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 20
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 24
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 9
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 10
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 12
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 14
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 65,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 17
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 9
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 11
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 13
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 15
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 18
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 7
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 9
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 10
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 12
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 7
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 9
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 18
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 21
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 24
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 28
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 33
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 12
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 14
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 17
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 20
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 24
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 8
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 10
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 12
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 14
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 17
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 7
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 8
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 10
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 60,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 12
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 7
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 8
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 10
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 12
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 7
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 8
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 12
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 13
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 16
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 19
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 22
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 8
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 9
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 11
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 13
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 16
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 8
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 9
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 11
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 55,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 8
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 7
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 7
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 8
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 10
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 12
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 14
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 7
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 8
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 10
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 6
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 7
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 50,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 5
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 0
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 0
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": false,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 4,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 5,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 6,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 7,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 180,
+    "cholesterol": 8,
+    "score": 4
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 5,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 6,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 7,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 160,
+    "cholesterol": 8,
+    "score": 3
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 7,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 140,
+    "cholesterol": 8,
+    "score": 2
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 4,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 5,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 6,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 7,
+    "score": 1
+  },
+  {
+    "gender": "male",
+    "isSmoker": true,
+    "age": 40,
+    "systolicBloodPressure": 120,
+    "cholesterol": 8,
+    "score": 1
+  }
+]

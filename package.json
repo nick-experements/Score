@@ -1,0 +1,15 @@
+{
+  "name": "score-calculater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha '**/*.spec.cjs'"
+  },
+  "author": "Mykyta Kudla",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^11.7.5"
+  }
+}
