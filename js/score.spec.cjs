@@ -19,13 +19,29 @@ const testCases = [ {
     pr: 120,
     expectetResult: 3,
 }, {
-    title: 'age fracrion',
+    title: 'age fracrion 63',
     age: 63,
     gender: 'male',
     isSmoker: false,
     cl: 5,
     pr: 120,
     expectetResult: 3,
+}, {
+    title: 'age fracrion 67',
+    age: 67,
+    gender: 'male',
+    isSmoker: false,
+    cl: 5,
+    pr: 120,
+    expectetResult: 5,
+}, {
+    title: 'age fracrion 49',
+    age: 49,
+    gender: 'male',
+    isSmoker: false,
+    cl: 5,
+    pr: 120,
+    expectetResult: 0,
 }
 ]
 
