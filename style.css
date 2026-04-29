@@ -162,3 +162,36 @@ button {
 #telephone-number{
     font-size: 26px;
 }
+.score-cell{
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+.score-cell.no-risk {
+    color: #ffffff;
+    background-color: #009949;
+}
+.score-cell.very-small-risk {
+    color: #000000;
+    background-color: #74b943;
+}
+.score-cell.small-risk {
+    color: #000000;
+    background-color: #fff005;
+}
+.score-cell.medium-risk {
+    color: #000000;
+    background-color: #eb8b2c;
+}
+.score-cell.high-risk {
+    color: #000000;
+    background-color: #d9232a;
+}
+.score-cell.very-high-risk {
+    color: #ffffff;
+    background-color: #af2028;
+}
+.score-cell.danger-risk {
+    color: #ffffff;
+    background-color: #88191f;
+}
