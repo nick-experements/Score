@@ -42,6 +42,54 @@ const testCases = [ {
     cl: 5,
     pr: 120,
     expectetResult: 0,
+}, {
+    title: 'high-age 70 ',
+    age: 70,
+    gender: 'male',
+    isSmoker: false,
+    cl: 5,
+    pr: 180,
+    expectetResult: 16,
+}, {
+    title: 'low-age 35 ',
+    age: 35,
+    gender: 'male',
+    isSmoker: false,
+    cl: 5,
+    pr: 180,
+    expectetResult: 1,
+}, {
+    title: 'high-cl 12 ',
+    age: 45,
+    gender: 'male',
+    isSmoker: false,
+    cl: 12,
+    pr: 180,
+    expectetResult: 2,
+}, {
+    title: 'low-cl 1 ',
+    age: 45,
+    gender: 'male',
+    isSmoker: false,
+    cl: 1,
+    pr: 180,
+    expectetResult: 1,
+}, {
+    title: 'cl fractal 1 ',
+    age: 45,
+    gender: 'male',
+    isSmoker: false,
+    cl: 4.5,
+    pr: 180,
+    expectetResult: 1,
+}, {
+    title: 'cl fractal 1 ',
+    age: 45,
+    gender: 'male',
+    isSmoker: false,
+    cl: 4.5,
+    pr: 190.7,
+    expectetResult: 1,
 }
 ]
 
@@ -56,9 +104,9 @@ describe ('score', function(){
         const testCase = testCases[caseIndex];
         const title = testCase.title || `simple test #${caseIndex} age - ${testCase.age} gender - ${testCase.gender} isSmoker - ${testCase.isSmoker} cl - ${testCase.cl} pr - ${testCase.pr}`
         it (title, function() {
-                 const result = getScore(testCase.age, testCase.gender, testCase.isSmoker, testCase.cl, testCase.pr, scoreTable)
-                 expect(result).to.be.equal(testCase.expectetResult)
-            })
+            const result = getScore(testCase.age, testCase.gender, testCase.isSmoker, testCase.cl, testCase.pr, scoreTable)
+            expect(result).to.be.equal(testCase.expectetResult)
+        })
         
     }
     // it ('simple test', function() {
