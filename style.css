@@ -195,3 +195,7 @@ button {
     color: #ffffff;
     background-color: #88191f;
 }
+.score-row{
+    display: flex;
+    flex-direction: row;
+}
