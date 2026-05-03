@@ -8,10 +8,7 @@ async function loadData() {
 
 async function buildScores(){
     const scoreTable = await loadData();
-
-   
-    buildBox ([[7, 8, 9, 10, 12], [5, 5, 6, 7, 8, ], [3, 3, 4, 5, 6, ], [2, 2, 3, 3, 4, ]], document.body)
-
+    buildTables (scoreTable)
 }
   
   
@@ -22,13 +19,29 @@ function buildTables (scoreTable) {
     const menNoSmokers = scoreTable.filter(record => record.gender === 'male' && record.isSmoker === false)
     const menSmokers = scoreTable.filter(record => record.gender === 'male' && record.isSmoker === true)
 
-    buildTable(womenNoSmokers)
-    buildTable(womenSmokers)
-    buildTable(menNoSmokers)
-    buildTable(menSmokers)
+
+    buildChart(scoreTableToChartData (womenNoSmokers), document.body)
+    // buildChart(scoreTableToChartData (womenSmokers), document.body)
+    // buildChart(scoreTableToChartData (menNoSmokers), document.body)
+    // buildChart(scoreTableToChartData (menSmokers), document.body)
 }
 
+function scoreTableToChartData (scoreTable) { 
+   
+    const scoreChart = [65, 60, 55, 50, 40].map((age) => {
+        const scoreBox =  [180, 160, 140, 120].map((presure) => {
+            const row = scoreTable.filter(row => row.systolicBloodPressure === presure && row.age === age)
+            var scoreRow = row.map((record) => record.score)
+            return scoreRow
+        })
+        return scoreBox
 
+    })
+    return scoreChart
+
+
+
+}
 
 function buildTable (scoreTable) { 
     for(var i = 0; i < scoreTable.length; i++){
@@ -41,6 +54,21 @@ function buildTable (scoreTable) {
     }
 }
 
+// [[[], [], [], ][ , ][]]]
+
+function buildChart (scoreChart, container) {
+    const scoreChartElement = document.createElement("div");
+    container.appendChild(scoreChartElement)
+    scoreChartElement.classList.add("score-chart")
+
+    for(var i = 0; i < scoreChart.length; i ++){
+
+        buildBox(scoreChart[i], scoreChartElement)
+    }
+}
+
+
+// [[1234],[534263],[64235],[246624],[16416]]
 function buildBox (scoreBox, container) {
     const scoreBoxElement = document.createElement("div");
     container.appendChild(scoreBoxElement)
@@ -52,6 +80,8 @@ function buildBox (scoreBox, container) {
     }
 }
 
+
+// [1, 2, 3, 4, 5]
 function buildLine (scoreRow, container){
     const scoreRowElement = document.createElement("div");
     container.appendChild(scoreRowElement)

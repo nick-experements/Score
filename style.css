@@ -199,3 +199,6 @@ button {
     display: flex;
     flex-direction: row;
 }
+.score-box{
+    margin-bottom: 10px;
+}
