@@ -21,9 +21,9 @@ function buildTables (scoreTable) {
 
 
     buildChart(scoreTableToChartData (womenNoSmokers), document.body)
-    // buildChart(scoreTableToChartData (womenSmokers), document.body)
-    // buildChart(scoreTableToChartData (menNoSmokers), document.body)
-    // buildChart(scoreTableToChartData (menSmokers), document.body)
+    buildChart(scoreTableToChartData (womenSmokers), document.body)
+    buildChart(scoreTableToChartData (menNoSmokers), document.body)
+    buildChart(scoreTableToChartData (menSmokers), document.body)
 }
 
 function scoreTableToChartData (scoreTable) { 
