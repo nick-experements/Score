@@ -1,7 +1,7 @@
 
 
 async function loadData() {
-    const response = await fetch('./score_table.json');
+    const response = await fetch('./js/score_table.json');
     const data = await response.json();
     return data;
 }
@@ -104,28 +104,7 @@ function drawCell (scoreNumber, container) {
     ${scoreNumber}
     </div>`
 }
-function getScoreCategory (score) { 
-    if (score < 1){
-        return 'no-risk'
-    }
-    if(score < 2){
-        return 'very-small-risk'
-    }
-    if(score < 3){
-        return 'small-risk'
-    }
-    if(score < 5){
-        return 'medium-risk'
-    }
-    if(score < 10){
-        return 'high-risk'
-    }
-    if(score < 15){
-        return 'very-high-risk'
-    }
-    return 'danger-risk'
-    
-}
+
 
 
 
