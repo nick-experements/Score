@@ -76,6 +76,14 @@ button {
     content: var(--recomendation);
 }
 
+#err {
+    display: none;
+    margin: 10px;
+}
+#err.visible {
+    display: block;
+}
+
 .model-description {
     margin-top: 8px;
     font-size: 13px;
@@ -101,18 +109,28 @@ button {
 }
 
 
-.result.risk-low {
+.result.no-risk {
     --level-color: #7fc025;
 }
-.result.risk-medium {
-    --level-color: #f1c40f;
+.result.very-small-risk {
+    --level-color: #6bb207;
 }
-.result.risk-high {
+.result.small-risk {
+    --level-color: #ffc400;
+}
+.result.medium-risk {
     --level-color: #e67e22;
 }
-.result.risk-very-high {
+.result.high-risk {
     --level-color: #e74c3c;
 }
+.result.very-high-risk {
+    --level-color: #e42e1a;
+}
+.result.danger-risk {
+    --level-color: #cc210e;
+}
+
 
 
 .contact-wrapper {

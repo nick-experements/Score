@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-    <h2>Розрахуй свій SCORE2</h2>
+    <h2>Розрахуй свій SCORE</h2>
     <h5>Для людей віком від 40 до 69 років</h5>
     <label>Вік</label>
     <input type="number" id="age" min="40" max="69">
@@ -23,7 +23,7 @@
     <label>Куріння</label>
     <select id="smoking">
         <option value="yes">Так</option>
-        <option value="no">Ні</option>
+        <option value="female">Ні</option>
     </select>
 
     <label>Систолічний тиск</label>
@@ -38,8 +38,9 @@
 
 
     <button onclick="calculateScore()">Розрахувати</button>
-
+    <div id="err">⚠️ Заповніть всі поля для розрахунку показника SCORE</div>
     <div id="result" class="result">
+
         <div class="anwser-report">
             <div class="risk-category">
             
