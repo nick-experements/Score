@@ -78,7 +78,7 @@ button {
 
 #err {
     display: none;
-    margin: 10px;
+    margin: 10+px;
 }
 #err.visible {
     display: block;
